@@ -7,6 +7,9 @@
 # Test Server
 test/
 
+# Maven
+target/
+
 # Log file
 *.log
 
