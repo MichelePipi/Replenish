@@ -1,0 +1,4 @@
+name: Replenish
+version: '1.0-dev'
+main: xyz.michelepip.replenish.Replenish
+api-version: 1.19
