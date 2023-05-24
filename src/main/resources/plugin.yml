@@ -1,0 +1,4 @@
+name: Replenish
+version: '${project.version}'
+main: xyz.michelepip.replenish.Replenish
+api-version: 1.19
